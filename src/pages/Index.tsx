@@ -244,7 +244,7 @@ Her authentic journey from "debt" to "success" is the most powerful teaching mat
           loop
           muted
           playsInline
-          className="absolute inset-0 w-full h-full object-cover"
+          className="absolute inset-0 w-full h-full object-cover object-[center_30%] md:object-center"
         >
           <source src={heroVideo} type="video/mp4" />
         </video>
